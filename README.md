@@ -3,5 +3,5 @@ This repository contains the outputs for two runs of SmartGPT on the entire MMLU
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Pythagora-io/gpt-pilot&type=Date)](https://star-history.com/#Pythagora-io/gpt-pilot&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Joshua-Stapleton/smartgpt-answers&type=Date)](https://star-history.com/#Joshua-Stapleton/smartgpt-answers&Date)
 
